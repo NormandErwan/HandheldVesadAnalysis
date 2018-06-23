@@ -1,0 +1,2 @@
+C:\Users\Erwan\Miniconda3\python.exe C:\Users\Erwan\Miniconda3\cwp.py C:\Users\Erwan\Miniconda3\envs\master-thesis C:\Users\Erwan\Miniconda3\envs\master-thesis\python.exe C:\Users\Erwan\Miniconda3\envs\master-thesis\Scripts\jupyter-notebook-script.py "D:\Maitrise\Analyses\Handheld VESAD Analysis.ipynb"
+pause
