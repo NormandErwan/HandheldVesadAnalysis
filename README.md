@@ -1,5 +1,13 @@
 # Handheld VESAD analysis
 
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/) Erwan Normand, 2018.
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+This analysis is part of the Erwan Normand's [master thesis](https://github.com/NormandErwan/MasterThesis). See also the the [presentation](https://github.com/NormandErwan/MasterThesisPresentation).
+
+## Usage
+
 Open [Handheld VESAD Analysis.ipynb](https://github.com/NormandErwan/HandheldVesadAnalysis/blob/master/Handheld%20VESAD%20Analysis.ipynb) in GitHub to see the analysis.
 
 ## Setup
@@ -33,4 +41,4 @@ jupyter nbextension enable code_prettify/autopep8
 
 ## Credits
 
-We did the analysis with [Jupyter](https://jupyter.org/), [pandas](https://pandas.pydata.org/), [NumPy](http://www.numpy.org/), [Seaborn](https://seaborn.pydata.org/), the [SciPy library](https://scipy.org/) and [StatsModels](http://www.statsmodels.org/).
+We did the analysis with [Jupyter](https://jupyter.org/), [pandas](https://pandas.pydata.org/), [NumPy](http://www.numpy.org/), [Seaborn](https://seaborn.pydata.org/), [SciPy](https://scipy.org/) and [StatsModels](http://www.statsmodels.org/).
