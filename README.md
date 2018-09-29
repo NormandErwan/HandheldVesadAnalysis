@@ -6,7 +6,7 @@
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-This analysis is part of the Erwan Normand's [master thesis](https://github.com/NormandErwan/HandheldVesadThesis). See also the the [thesis presentation](https://github.com/NormandErwan/HandheldVesadPresentation).
+This analysis is part of the Erwan Normand's [master thesis](https://github.com/NormandErwan/HandheldVesadThesis). See also the the [thesis presentation](https://github.com/NormandErwan/HandheldVesadPresentation) and the [experiment prototype](https://github.com/NormandErwan/HandheldVesadPrototype).
 
 ## Usage
 
