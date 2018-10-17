@@ -19,7 +19,7 @@ Open [Handheld VESAD Analysis.ipynb](https://github.com/NormandErwan/HandheldVes
 2. [Start conda](https://conda.io/docs/user-guide/getting-started.html#starting-conda) and create a new environment with the following packages:
 
 ```
-conda create --name handheld-vesad jupyter pandas matplotlib seaborn statsmodels ipywidgets
+conda create --name handheld-vesad jupyter pandas matplotlib seaborn statsmodels ipywidgets conda-forge jupyter_contrib_nbextensions
 ```
 
 3. Activate the environment:
@@ -29,7 +29,6 @@ conda create --name handheld-vesad jupyter pandas matplotlib seaborn statsmodels
 The following extensions where also used to develop, but are not required to run the notebook:
 
 ```
-conda install -c conda-forge jupyter_contrib_nbextensions
 jupyter contrib nbextension install --user
 
 jupyter nbextension enable ruler/main
